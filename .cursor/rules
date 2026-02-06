@@ -1,0 +1,8 @@
+PROJECT: Project Chimera
+
+RULES:
+- NEVER write code without reading specs/
+- Follow Planner → Worker → Judge
+- Skills must be reusable
+- MCP servers NEVER contain business logic
+- Explain plan before coding
