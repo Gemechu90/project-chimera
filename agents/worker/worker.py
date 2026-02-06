@@ -2,6 +2,7 @@ from skills.trend_fetcher.skill import fetch_trends
 from skills.content_generator.skill import generate_content
 from skills.engagement_manager.skill import engage
 
+
 class Worker:
     def execute(self, task):
         if task == "fetch_trends":

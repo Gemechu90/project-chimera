@@ -2,6 +2,7 @@ from agents.planner.planner import Planner
 from agents.worker.worker import Worker
 from agents.judge.judge import Judge
 
+
 def test_full_pipeline():
     planner = Planner()
     worker = Worker()

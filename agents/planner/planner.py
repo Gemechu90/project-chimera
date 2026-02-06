@@ -3,5 +3,5 @@ class Planner:
         return [
             {"task": "fetch_trends"},
             {"task": "generate_content"},
-            {"task": "engage"}
+            {"task": "engage"},
         ]
