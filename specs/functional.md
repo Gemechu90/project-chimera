@@ -1,0 +1,4 @@
+- Agent fetches trends
+- Agent generates content
+- Agent engages users
+- Human-in-the-loop via Judge
